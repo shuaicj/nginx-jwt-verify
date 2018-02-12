@@ -8,7 +8,7 @@ Nginx JWT verification.
 #### Get Started
 1. Install Nginx with lua support.
 ```
-$ brew tap homebrew/nginx
+$ brew tap denji/nginx
 $ brew install nginx-full --with-lua-module --with-set-misc-module
 ```
 2. Install lua JWT related modules.
